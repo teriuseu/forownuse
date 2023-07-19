@@ -1,9 +1,3 @@
-DOMAIN,hd.xmsl.org
-DOMAIN,test.xmsl.org
-#DOMAIN-KEYWORD,xsus
-DOMAIN-SUFFIX,carryz.net
-;DOMAIN, 
 IP-CIDR,10.5.1.0/10,no-resolve
 IP-CIDR,2.2.2.0/10,no-resolve
 IP-CIDR,10.11.48.0/10,no-resolve
-;
