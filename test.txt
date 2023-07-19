@@ -1,3 +1,0 @@
-hd.xmsl.org
-test.xmsl.org
-carryz.net
